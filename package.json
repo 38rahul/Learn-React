@@ -1,0 +1,29 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "Learning React in june 2025",
+  "start": "parcel index.html --open",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/38rahul/Learn-React.git"
+  },
+  "keywords": [],
+  "author": "38rahul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/38rahul/Learn-React/issues"
+  },
+  "homepage": "https://github.com/38rahul/Learn-React#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserlist" :
+  ["last 2 versions"]
+}
