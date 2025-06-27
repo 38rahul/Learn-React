@@ -1,0 +1,54 @@
+npm run start or npm start
+nmp run build : No shortcut
+
+We can write react without jSX
+React is seperate
+JSX is seperate
+Lots of developer think that both are same thing, No
+
+-> JSX is different than Html
+
+JSX is a Html like Syntax
+
+
+Question ??
+
+-> Do we write cod efor machine of Humans ??
+1st for humans then for machines
+
+
+transpiled the code before it goes to js engine
+
+transpiled -> converted to the code that browser can understand.
+
+Transpiling is done by parsel -> Babel package transpile.
+
+babel -> it takes your jsx and it converts it to the code that js engine understands
+
+Read about Babel
+
+
+
+
+=========================  JSX ========================
+
+If you write curly braces inside JSX, you can run any piece of js expression.
+JSX is mix of html and javascript.
+
+jsx takes care of injection attck.
+snitizes everything.
+
+
+
+cross site scripting -> it can steal cookies, read local storage, session storage, get information about your laptop
+injection attack
+
+
+================= These three things are same things==================
+{Title()}
+{<Title/>}
+{<These></Title>}
+
+
+
+
